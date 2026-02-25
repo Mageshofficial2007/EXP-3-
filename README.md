@@ -50,9 +50,7 @@ contract LuxurySupplyChain {
 }
 ```
 ## Expected Output:
-![WhatsApp Image 2026-02-12 at 9 36 57 AM](https://github.com/user-attachments/assets/f1b2cbaf-8086-482f-897b-a1bcee2c8236)
-
-![WhatsApp Image 2026-02-12 at 9 36 57 AM (1)](https://github.com/user-attachments/assets/c88ec2a2-b185-4e62-bc76-3f643390f2d9)
+<img width="1335" height="941" alt="image" src="https://github.com/user-attachments/assets/da3e697f-5466-4777-9297-ac09e7350c28" />
 
 Ownership is transferred at every checkpoint.
 
